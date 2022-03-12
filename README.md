@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zubastilla
+- 👋 Hi, I’m Andrey aka zubastilla
 - 👀 I’m do all sort of stuff, but really fascinated by automation
-- 🌱 I’m currently diving into the big world of some of the best APIs out there - Twitter, Youtube, Spotify, Reddit, etc...
+- 🌱 I’m currently diving into the big world of some of the best APIs out there - Twitter, Spotify, Reddit, etc...
 - 💞️ Never collaborated with anyone, but would love to.
 - 📫 How to reach me - hit me up @ andrey.ichshenko@outlook.com
 
